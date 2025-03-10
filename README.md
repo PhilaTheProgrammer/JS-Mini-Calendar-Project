@@ -24,6 +24,6 @@ The Mini Calendar Project is a simple calender displaying web app.
 4. Contact
 Developer: Phila Mkhize
 GitHub: PhilaTheProgrammer
-Email: mkhizep971@gmail.com
+Email: mkhizep971@gmail.com / 22134052@dut4life.ac.za
 
 
